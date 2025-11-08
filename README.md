@@ -1,0 +1,2 @@
+# hass_dewpoint
+HomeAssistantで露点温度を計算するカスタムコンポーネント
