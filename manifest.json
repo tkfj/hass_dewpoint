@@ -1,0 +1,11 @@
+{
+    "domain": "hass_dewpoint",
+    "name": "Dew Point (Calculated)",
+    "version": "0.1.0",
+    "config_flow": true,
+    "documentation": "https://github.com/tkfj/hass_dewpoint",
+    "codeowners": ["@tkfj"],
+    "iot_class": "calculated",
+    "dependencies": [],
+    "requirements": []
+}
